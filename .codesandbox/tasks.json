@@ -1,0 +1,8 @@
+{
+  "portTasks": {
+    "4000": {
+      "name": "App",
+      "command": "yarn run start"
+    }
+  }
+}
